@@ -1,0 +1,20 @@
+# Personal Blocklist by itsgiulian 
+# Last modified: Sat, 15 Apr 2023
+
+analyticsengine.s3.amazonaws.com
+advertising-api-eu.amazon.com
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+realtime.luckyorange.com
+browser.sentry-cdn.com
+api.bugsnag.com
+app.bugsnag.com
+widgets.pinterest.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+samsung-com.112.2o7.net
