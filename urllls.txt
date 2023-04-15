@@ -18,3 +18,10 @@ bdapi-in-ads.realmemobile.com
 metrics2.data.hicloud.com
 grs.hicloud.com
 samsung-com.112.2o7.net
+events.hotjar.io
+
+tools.mouseflow.com
+api.mouseflow.com
+browser.sentry-cdn.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
