@@ -1,6 +1,10 @@
 # Personal Blocklist by itsgiulian 
 # Last modified: Sat, 15 Apr 2023
 
+api.mouseflow.com
+tools.mouseflow.com
+browser.sentry-cdn.com
+
 analyticsengine.s3.amazonaws.com
 advertising-api-eu.amazon.com
 api.mouseflow.com
